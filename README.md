@@ -1,2 +1,2 @@
 # technical_trading_system
-A technical trading startegy for trading currencies 
+A technical trading strategy for trading currencies 
